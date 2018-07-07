@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CIFAR-10
 The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images. 
 
@@ -30,3 +31,6 @@ jupyter notebook
 >Train Set = 72.235
     
 >Test Set = 53.62
+=======
+# CIFAR-10
+>>>>>>> a1dd60184eb165f1d63da3b813816ae643f75b72
